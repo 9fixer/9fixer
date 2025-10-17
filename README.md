@@ -13,3 +13,7 @@
   <img src="https://github.com/user-attachments/assets/78b0cc3b-4817-4e2f-8fa2-808b933817d3"/>⠀⠀
   <a href="https://takumifujiwara.straw
   page"/>strawpage</a>
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=FF0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
+</div> 
